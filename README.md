@@ -29,6 +29,7 @@ Contains STL renders of items to be 3D printed with on-campus 3D printer service
 The following modifications are corrections to be incorporated into Revision 2:
 - [ ] Fix mounting hole distances for motors
 - [ ] Add better mounting for base plate (along the center axis)
+- [ ] Modify landing gear to accomodate the axel of the motor
 
 ## Credits
 The entire frame was designed by Georges Troulis, with lots of help from Hongtao Zhang (Project Lead and Chief Engineer).
